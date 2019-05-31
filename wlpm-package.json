@@ -1,0 +1,11 @@
+{
+    "title": "Warcraft 3 Lua demo hello user repository",
+    "author": "ScorpioT1000 / scorpiot1000@yandex.ru", 
+    "license": "MIT",
+    "dependencies": { 
+      "https://github.com/Indaxia/wlpm-wc3-demo-hello": "*"
+    },
+    "sources": {
+      "src"
+    }
+}
